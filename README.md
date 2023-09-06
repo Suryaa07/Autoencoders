@@ -2,7 +2,7 @@
 
 
 ![COVID-1](https://github.com/Suryaa07/Autoencoders/assets/72430187/762b0977-cc67-4d0c-9911-c5b762db84b0)
-| ![Reconstructed X-ray](link_to_reconstructed_xray_image.png)
+| ![Reconstructed X-ray]
 :-------------------------:|:-------------------------:
 *Original X-ray Image* | *Reconstructed X-ray Image*
 
@@ -55,8 +55,7 @@ Make sure you have the following libraries installed:
 
 The following images show the original X-ray image and the reconstructed X-ray image after training the autoencoder:
 
-- **Original X-ray Image**:
-![Original X-ray](link_to_original_xray_image.png)
+- **Original X-ray Image**: https://github.com/Suryaa07/Autoencoders/assets/72430187/762b0977-cc67-4d0c-9911-c5b762db84b0
 
 - **Reconstructed X-ray Image**:
 ![Reconstructed X-ray](link_to_reconstructed_xray_image.png)
