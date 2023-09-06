@@ -1,10 +1,4 @@
-# X-ray Image Analysis with Autoencoders
 
-
-![COVID-1](https://github.com/Suryaa07/Autoencoders/assets/72430187/762b0977-cc67-4d0c-9911-c5b762db84b0)
-| ![Reconstructed X-ray]
-:-------------------------:|:-------------------------:
-*Original X-ray Image* | *Reconstructed X-ray Image*
 
 ## Overview
 
