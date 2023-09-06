@@ -14,22 +14,6 @@ Make sure you have the following libraries installed:
 - NumPy
 - Matplotlib
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/xray-autoencoder.git
-   cd xray-autoencoder
-   ```
-
-2. Replace `xray_image_path` in the script with the path to your own X-ray image.
-
-3. Run the script:
-
-   ```bash
-   python xray.py
-   ```
 
 ## How it Works
 
